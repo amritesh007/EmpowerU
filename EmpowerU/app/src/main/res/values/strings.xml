@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmpowerU</string>
+    <string name="tab1">TAB1</string>
+    <string name="tab2">TAB2</string>
+    <string name="label_name1">First Name</string>
+    <string name="label_name2">Last Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_contact">Contact Number</string>
+
+</resources>
